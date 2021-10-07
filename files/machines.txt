@@ -1,0 +1,9 @@
+Albert,Fermenter/Conditioner,,,1000,0,Waiting
+Brigadier,Fermenter/Conditioner,,,800,0,Waiting
+Camilla,Fermenter/Conditioner,,,1000,0,Waiting
+Dylon,Fermenter/Conditioner,,,800,0,Waiting
+Emily,Fermenter/Conditioner,,,1000,0,Waiting
+Florence,Fermenter/Conditioner,,,800,0,Waiting
+Gertrude,Conditoner,,,680,0,Waiting
+Harry,Conditioner,,,680,0,Waiting
+R2D2,Fermenter,,,800,0,Waiting
