@@ -1,0 +1,11 @@
+2019-12-05 22:27:10,185 : DEBUG : __main__ : Date for 1000 stored in the wrong format
+2019-12-05 22:27:10,215 : DEBUG : __main__ : Date for 1000 stored in the wrong format
+2019-12-05 22:27:10,216 : INFO : __main__ : Organic Pilsner recommended to brew
+2019-12-05 22:27:10,393 : INFO : __main__ : System started successfully
+2019-12-05 22:27:12,606 : DEBUG : __main__ : Date for 1000 stored in the wrong format
+2019-12-05 22:27:12,639 : DEBUG : __main__ : Date for 1000 stored in the wrong format
+2019-12-05 22:27:12,639 : INFO : __main__ : Organic Pilsner recommended to brew
+2020-02-17 19:17:10,005 : DEBUG : __main__ : Date for 1000 stored in the wrong format
+2020-02-17 19:17:10,014 : DEBUG : __main__ : Date for 1000 stored in the wrong format
+2020-02-17 19:17:10,014 : INFO : __main__ : Organic Pilsner recommended to brew
+2020-02-17 19:17:10,089 : INFO : __main__ : System started successfully
